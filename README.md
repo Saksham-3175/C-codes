@@ -1,2 +1,2 @@
-# C
- no des
+# C language
+This repo contains my practice programs. 
