@@ -11,7 +11,7 @@ int main()
         scanf("%d", &ptra[i]);
     }
     
-    for (int i = 0; i < 7; i++)
+    for (int i = 0; i < 7; i++)//Fragmentation(Garbage value will be printed for last 2)
     {
         printf("The value at element number %d is: %d\n", i, ptra[i]);
     }
