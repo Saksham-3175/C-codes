@@ -1,2 +1,1 @@
-# C language
-This repo contains my practice programs. 
+No readme at this moment!
