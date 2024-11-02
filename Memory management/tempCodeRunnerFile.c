@@ -1,1 +1,0 @@
-ptra = (int *)malloc(n*sizeof(int));
